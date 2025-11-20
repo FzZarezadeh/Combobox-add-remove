@@ -1,4 +1,4 @@
-![ComboBox Manager Icon](https://copilot.microsoft.com/th/id/BCO.7a2b1f4d-3d9a-4c9e-9f4a-2a1d3a7c9e8f.png)
+![ComboBox Manager Icon](https://copilot.microsoft.com/th/id/BCO.28d35eae-81fb-4663-b559-bb3340fc14fb.png)
 
 🧾 ComboBox Manager with Date & Time Display
 
