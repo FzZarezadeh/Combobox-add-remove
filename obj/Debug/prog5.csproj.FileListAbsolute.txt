@@ -1,0 +1,10 @@
+I:\دانشگاه\t1-barnameSazi\prog5\bin\Debug\prog5.exe.config
+I:\دانشگاه\t1-barnameSazi\prog5\bin\Debug\prog5.exe
+I:\دانشگاه\t1-barnameSazi\prog5\bin\Debug\prog5.pdb
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.csprojAssemblyReference.cache
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.Form1.resources
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.Properties.Resources.resources
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.csproj.GenerateResource.cache
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.csproj.CoreCompileInputs.cache
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.exe
+I:\دانشگاه\t1-barnameSazi\prog5\obj\Debug\prog5.pdb
